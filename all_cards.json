@@ -1,0 +1,629 @@
+[
+    {
+        "id": 1,
+        "name": { "en": "Big Invincible God Dragon" },
+        "effect": { "en": "" },
+        "manaColors": ["blue", "green", "yellow", "purple"],
+        "reqAllColors": true,
+        "level": 6,
+        "attack": 4500,
+        "types": [{ "en": "Dragon" }]
+    },
+    {
+        "id": 2,
+        "name": { "en": "Big Monke" },
+        "effect": { "en": "" },
+        "manaColors": ["green"],
+        "level": 4,
+        "attack": 2800,
+        "types": [{ "en": "Beast" }]
+    },
+    {
+        "id": 3,
+        "name": { "en": "Big Yellow" },
+        "effect": { "en": "Charge YELLOW by 2.\n\nPlay again." },
+        "manaColors": ["purple"],
+        "level": 2,
+        "attack": 0,
+        "types": [{ "en": "Spell" }]
+    },
+    {
+        "id": 4,
+        "name": { "en": "Big Green" },
+        "effect": { "en": "Charge GREEN by 2.\n\nPlay again." },
+        "manaColors": ["purple"],
+        "level": 2,
+        "attack": 0,
+        "types": [{ "en": "Spell" }]
+    },
+    {
+        "id": 5,
+        "name": { "en": "Big Blue" },
+        "effect": { "en": "Charge BLUE by 2.\n\nPlay again." },
+        "manaColors": ["purple"],
+        "level": 2,
+        "attack": 0,
+        "types": [{ "en": "Spell" }]
+    },
+    {
+        "id": 6,
+        "name": { "en": "Big Purple" },
+        "effect": { "en": "Charge PURPLE by 2.\n\nPlay again." },
+        "manaColors": ["purple"],
+        "level": 2,
+        "attack": 0,
+        "types": [{ "en": "Spell" }]
+    },
+    {
+        "id": 7,
+        "name": { "en": "Little Guy" },
+        "effect": { "en": "+2K if top of graveyard is PURPLE." },
+        "manaColors": ["yellow"],
+        "level": 1,
+        "attack": 400,
+        "types": [{ "en": "Fairy" }]
+    },
+    {
+        "id": 8,
+        "name": { "en": "Brain Smack" },
+        "effect": { "en": "Draw to 5." },
+        "manaColors": ["purple"],
+        "level": 1,
+        "attack": 0,
+        "types": [{ "en": "Spell" }]
+    },
+    {
+        "id": 9,
+        "name": { "en": "Dog with a Hat On" },
+        "manaColors": ["green"],
+        "level": 3,
+        "attack": 1500,
+        "types": [{ "en": "Beast" }]
+    },
+    {
+        "id": 10,
+        "name": { "en": "Brain Fish" },
+        "effect": { "en": "On play or discard: charge PURPLE.\n\nOn death: reduce PURPLE." },
+        "manaColors": ["blue"],
+        "level": 2,
+        "attack": 800,
+        "types": [{ "en": "Fish" }]
+    },
+    {
+        "id": 11,
+        "name": { "en": "Copy Spell" },
+        "effect": { "en": "If the top card of the graveyard is a spell, do its effect." },
+        "manaColors": ["purple"],
+        "level": 1,
+        "attack": 0,
+        "types": [{ "en": "Spell" }]
+    },
+    {
+        "id": 12,
+        "name": { "en": "Max Lancer" },
+        "effect": { "en": "x3 if YELLOW is at 6.\n\nDies to GREEN." },
+        "manaColors": ["yellow"],
+        "level": 3,
+        "attack": 1200,
+        "types": [{ "en": "Robot" }]
+    },
+    {
+        "id": 13,
+        "name": { "en": "Dog with no Hat On" },
+        "manaColors": ["green"],
+        "level": 2,
+        "attack": 1200,
+        "types": [{ "en": "Beast" }]
+    },
+    {
+        "id": 14,
+        "name": { "en": "Stegorhinox" },
+        "manaColors": ["green"],
+        "level": 3,
+        "attack": 2100,
+        "types": [{ "en": "Dino" }]
+    },
+    {
+        "id": 15,
+        "name": { "en": "Sweatpants Saurus" },
+        "manaColors": ["green"],
+        "level": 6,
+        "attack": 3000,
+        "types": [{ "en": "Dino" }]
+    },
+    {
+        "id": 16,
+        "name": { "en": "Squid Surfer" },
+        "effect": { "en": "+1300 if the top card of the graveyard is YELLOW." },
+        "manaColors": ["blue"],
+        "level": 4,
+        "attack": 1700,
+        "types": [{ "en": "Kraken" }]
+    },
+    {
+        "id": 17,
+        "name": { "en": "One and One Half Sharks" },
+        "effect": { "en": "+1K vs Beasts" },
+        "manaColors": ["blue"],
+        "level": 3,
+        "attack": 1600,
+        "types": [{ "en": "Fish" }]
+    },
+    {
+        "id": 18,
+        "name": { "en": "Raccoon Rangoon" },
+        "effect": { "en": "On discard or death: steal a random card from a player of your choice." },
+        "manaColors": ["green"],
+        "level": 3,
+        "attack": 1100,
+        "types": [{ "en": "Beast" }]
+    },
+    {
+        "id": 19,
+        "name": { "en": "Tinker Bell" },
+        "effect": { "en": "PURPLE cards are free." },
+        "manaColors": ["yellow"],
+        "level": 2,
+        "attack": 800,
+        "types": [{ "en": "Fairy" }]
+    },
+    {
+        "id": 20,
+        "name": { "en": "Reversal" },
+        "effect": { "en": "Reverse the turn order.\n\nPlay again." },
+        "manaColors": ["purple"],
+        "level": 3,
+        "attack": 0,
+        "types": [{ "en": "Spell" }]
+    },
+    {
+        "id": 21,
+        "name": { "en": "Reversal 2" },
+        "effect": { "en": "Reverse the turn order.\n\nPlay again." },
+        "manaColors": ["purple"],
+        "level": 5,
+        "attack": 0,
+        "types": [{ "en": "Spell" }]
+    },
+    {
+        "id": 22,
+        "name": { "en": "Scared Sparrow" },
+        "effect": { "en": "+1K if the top card of the graveyard is a monster.\n\nOn discard: charge GREEN and draw to 5." },
+        "manaColors": ["green"],
+        "level": 1,
+        "attack": 200,
+        "types": [{ "en": "Bird" }]
+    },
+    {
+        "id": 23,
+        "name": { "en": "Time Control" },
+        "effect": { "en": "Put the top 3 cards of the monster pile into the graveyard." },
+        "manaColors": ["purple"],
+        "level": 5,
+        "attack": 0,
+        "types": [{ "en": "Spell" }]
+    },
+    {
+        "id": 24,
+        "name": { "en": "War Elephant" },
+        "effect": { "en": "+1K vs GREEN" },
+        "manaColors": ["green"],
+        "level": 4,
+        "attack": 2200,
+        "types": [{ "en": "Beast" }]
+    },
+    {
+        "id": 25,
+        "name": { "en": "Leprechaun" },
+        "effect": { "en": "On play: starting with you, everyone draws a card." },
+        "manaColors": ["yellow"],
+        "level": 3,
+        "attack": 1600,
+        "types": [{ "en": "Fairy" }]
+    },
+    {
+        "id": 26,
+        "name": { "en": "Green Dragon" },
+        "effect": { "en": "+2K vs BLUE.\n\nOn death: hold PURPLE." },
+        "manaColors": ["green"],
+        "level": 4,
+        "attack": 2400,
+        "types": [{ "en": "Dragon" }]
+    },
+    {
+        "id": 27,
+        "name": { "en": "Roller Skate" },
+        "effect": { "en": "x2 on attack." },
+        "manaColors": ["yellow"],
+        "level": 3,
+        "attack": 800,
+        "types": [{ "en": "Robot" }]
+    },
+    {
+        "id": 28,
+        "name": { "en": "Hungry Piranha" },
+        "effect": { "en": "+400 per enemy level." },
+        "manaColors": ["blue"],
+        "level": 2,
+        "attack": 400,
+        "types": [{ "en": "Fish" }]
+    },
+    {
+        "id": 29,
+        "name": { "en": "More Cards" },
+        "effect": { "en": "Starting with you, everyone draws a card." },
+        "manaColors": ["purple"],
+        "level": 2,
+        "attack": 0,
+        "types": [{ "en": "Spell" }]
+    },
+    {
+        "id": 30,
+        "name": { "en": "Duck" },
+        "manaColors": ["blue"],
+        "level": 1,
+        "attack": 1000,
+        "types": [{ "en": "Bird" }]
+    },
+    {
+        "id": 31,
+        "name": { "en": "Buff Bug" },
+        "effect": { "en": "+1200 vs higher level.\n\nOn discard: charge GREEN or PURPLE." },
+        "manaColors": ["green"],
+        "level": 2,
+        "attack": 600,
+        "types": [{ "en": "Bug" }]
+    },
+    {
+        "id": 32,
+        "name": { "en": "Super Surprise Shark" },
+        "effect": { "en": "+1K on attack." },
+        "manaColors": ["blue"],
+        "level": 5,
+        "attack": 2100,
+        "types": [{ "en": "Fish" }]
+    },
+    {
+        "id": 33,
+        "name": { "en": "Egg" },
+        "effect": { "en": "On discard: put the top card of the monster pile into your hand." },
+        "manaColors": ["yellow"],
+        "level": 1,
+        "attack": 200,
+        "types": [{ "en": "Egg" }]
+    },
+    {
+        "id": 34,
+        "name": { "en": "Wet Whale-y" },
+        "effect": { "en": "On play or discard: charge GREEN and PURPLE." },
+        "manaColors": ["blue"],
+        "level": 4,
+        "attack": 2100,
+        "types": [{ "en": "Beast" }]
+    },
+    {
+        "id": 35,
+        "name": { "en": "End of Days" },
+        "effect": { "en": "Roll each mana die. The result becomes that mana's new value.\n\nDiscard your hand." },
+        "manaColors": ["purple"],
+        "level": 6,
+        "attack": 0,
+        "types": [{ "en": "Spell" }]
+    },
+    {
+        "id": 36,
+        "name": { "en": "Water Snake" },
+        "effect": { "en": "+1K per color of opponent beyond the first.\n\nOn discard: charge BLUE or GREEN." },
+        "manaColors": ["blue", "green"],
+        "reqAllColors": false,
+        "level": 5,
+        "attack": 2800,
+        "types": [{ "en": "Beast" }]
+    },
+    {
+        "id": 37,
+        "name": { "en": "Thirsty Goat" },
+        "effect": { "en": "On discard: charge BLUE and draw to 5." },
+        "manaColors": ["green"],
+        "level": 2,
+        "attack": 600,
+        "types": [{ "en": "Beast" }]
+    },
+    {
+        "id": 38,
+        "name": { "en": "Lightning Rod" },
+        "effect": { "en": "x2 vs YELLOW.\n\nOn discard: draw to 5." },
+        "manaColors": ["yellow"],
+        "level": 4,
+        "attack": 1600,
+        "types": [{ "en": "Robot" }]
+    },
+    {
+        "id": 39,
+        "name": { "en": "Seraphim" },
+        "effect": { "en": "x2 vs GREEN." },
+        "manaColors": ["yellow"],
+        "level": 6,
+        "attack": 2700,
+        "types": [{ "en": "Angel" }]
+    },
+    {
+        "id": 40,
+        "name": { "en": "Killbot" },
+        "effect": { "en": "x2 vs GREEN.\n\nDies to BLUE." },
+        "manaColors": ["yellow"],
+        "level": 2,
+        "attack": 800,
+        "types": [{ "en": "Robot" }]
+    },
+    {
+        "id": 41,
+        "name": { "en": "Abandon Fish" },
+        "effect": { "en": "On discard: you can discard your whole hand." },
+        "manaColors": ["blue"],
+        "level": 2,
+        "attack": 400,
+        "types": [{ "en": "Fish" }]
+    },
+    {
+        "id": 42,
+        "name": { "en": "Fat Cat" },
+        "effect": { "en": "x4 vs BLUE." },
+        "manaColors": ["green"],
+        "level": 2,
+        "attack": 700,
+        "types": [{ "en": "Beast" }]
+    },
+    {
+        "id": 43,
+        "name": { "en": "Sea Animenome" },
+        "effect": { "en": "x2 vs Robots.\n\nDies to GREEN." },
+        "manaColors": ["blue"],
+        "level": 3,
+        "attack": 1400,
+        "types": [{ "en": "Fish" }]
+    },
+    {
+        "id": 44,
+        "name": { "en": "Buster Ball" },
+        "effect": { "en": "On play: wins if opponent is more expensive.\n\nDies to cheaper." },
+        "manaColors": ["yellow"],
+        "level": 3,
+        "attack": 1400,
+        "types": [{ "en": "Robot" }]
+    },
+    {
+        "id": 45,
+        "name": { "en": "King Krab" },
+        "effect": { "en": "x2 against BLUE and against cheaper.\n\nOn death: hold BLUE." },
+        "manaColors": ["blue"],
+        "level": 5,
+        "attack": 2000,
+        "types": [{ "en": "Fish" }]
+    },
+    {
+        "id": 46,
+        "name": { "en": "Killbot 2.0" },
+        "effect": { "en": "2x vs GREEN.\n\nDies to BLUE." },
+        "manaColors": ["yellow"],
+        "level": 4,
+        "attack": 2200,
+        "types": [{ "en": "Robot" }]
+    },
+    {
+        "id": 47,
+        "name": { "en": "Leviathan" },
+        "effect": { "en": "On death: draw to 5." },
+        "manaColors": ["blue"],
+        "level": 6,
+        "attack": 3200,
+        "types": [{ "en": "Kraken" }]
+    },
+    {
+        "id": 48,
+        "name": { "en": "Wandering Whale" },
+        "effect": { "en": "+600 vs GREEN.\n\nOn death: put the top 3 cards of the deck into the graveyard." },
+        "manaColors": ["blue"],
+        "level": 4,
+        "attack": 1400,
+        "types": [{ "en": "Beast" }]
+    },
+    {
+        "id": 49,
+        "name": { "en": "Avengasaurus" },
+        "effect": { "en": "On play: hold a color of your choice and discard your hand." },
+        "manaColors": ["green"],
+        "level": 6,
+        "attack": 3800,
+        "types": [{ "en": "Dino" }]
+    },
+    {
+        "id": 50,
+        "name": { "en": "Modded Mallard" },
+        "effect": { "en": "x5 on attack against any monster with an effect." },
+        "manaColors": ["blue"],
+        "level": 2,
+        "attack": 800,
+        "types": [{"en": "Robot"}, { "en": "Beast" }]
+    },
+    {
+        "id": 51,
+        "name": { "en": "Exchange Hands" },
+        "effect": { "en": "Exchange hands with a player of your choice." },
+        "manaColors": ["purple"],
+        "level": 3,
+        "attack": 0,
+        "types": [{ "en": "Spell" }]
+    },
+    {
+        "id": 52,
+        "name": { "en": "Clock Walk" },
+        "effect": { "en": "Put the top 1 or 2 cards of the monster pile into the graveyard." },
+        "manaColors": ["purple"],
+        "level": 3,
+        "attack": 0,
+        "types": [{ "en": "Spell" }]
+    },
+    {
+        "id": 53,
+        "name": { "en": "Cyber Matrix" },
+        "effect": { "en": "Dies to BLUE.\n\nOn play: everyone draws a card." },
+        "manaColors": ["yellow"],
+        "level": 5,
+        "attack": 2000,
+        "types": [{ "en": "Robot" }]
+    },
+    {
+        "id": 54,
+        "name": { "en": "Bold Ore" },
+        "effect": { "en": "x4 vs BLUE.\n\nOn discard: charge GREEN and decrease BLUE." },
+        "manaColors": ["green"],
+        "level": 1,
+        "attack": 400,
+        "types": [{ "en": "Rock" }]
+    },
+    {
+        "id": 55,
+        "name": { "en": "Gat Rat" },
+        "effect": { "en": "On death: draw a card.\n\nOn discard: charge GREEN or YELLOW." },
+        "manaColors": ["green"],
+        "level": 2,
+        "attack": 500,
+        "types": [{ "en": "Beast" }]
+    },
+    {
+        "id": 56,
+        "name": { "en": "See Serpent" },
+        "effect": { "en": "x2 vs YELLOW.\n\n+1K vs BLUE.\n\nOn play: you can discard a card." },
+        "manaColors": ["blue"],
+        "level": 5,
+        "attack": 2400,
+        "types": [{ "en": "Beast" }]
+    },
+    {
+        "id": 57,
+        "name": { "en": "Ancient Light" },
+        "effect": { "en": "x4 vs GREEN.\n\nOn discard: charge YELLOW and decrease GREEN." },
+        "manaColors": ["yellow"],
+        "level": 3,
+        "attack": 1000,
+        "types": [{ "en": "Angel" }]
+    },
+    {
+        "id": 58,
+        "name": { "en": "Grizzled Bear" },
+        "effect": { "en": "x2 vs BLUE." },
+        "manaColors": ["green"],
+        "level": 2,
+        "attack": 600,
+        "types": [{ "en": "Beast" }]
+    },
+    {
+        "id": 59,
+        "name": { "en": "Master Bass" },
+        "manaColors": ["blue"],
+        "level": 5,
+        "attack": 2500,
+        "types": [{ "en": "Fish" }]
+    },
+    {
+        "id": 60,
+        "name": { "en": "Angelic Beast" },
+        "effect": { "en": "Dies to BLUE." },
+        "manaColors": ["yellow", "green"],
+        "reqAllColors": false,
+        "level": 4,
+        "attack": 2500,
+        "types": [{ "en": "Angel" }, { "en": "Beast" }]
+    },
+    {
+        "id": 61,
+        "name": { "en": "Ospray" },
+        "effect": { "en": "On discard: draw to 5." },
+        "manaColors": ["green"],
+        "level": 2,
+        "attack": 700,
+        "types": [{ "en": "Bird" }]
+    },
+    {
+        "id": 62,
+        "name": { "en": "Little Octo" },
+        "effect": { "en": "x2 vs YELLOW.\n\nDies to GREEN." },
+        "manaColors": ["blue"],
+        "level": 3,
+        "attack": 1000,
+        "types": [{ "en": "Kraken" }]
+    },
+    {
+        "id": 63,
+        "name": { "en": "Mermaid" },
+        "effect": { "en": "On discard: draw to 5." },
+        "manaColors": ["blue"],
+        "level": 1,
+        "attack": 600,
+        "types": [{ "en": "Fish" }]
+    },
+    {
+        "id": 64,
+        "name": { "en": "Spelling Bee" },
+        "effect": { "en": "On play: if the top card of the graveyard is a spell, do its effect." },
+        "manaColors": ["green", "purple"],
+        "level": 3,
+        "attack": 1400,
+        "types": [{ "en": "Bug" }]
+    },
+    {
+        "id": 65,
+        "name": { "en": "Wise Jelly" },
+        "effect": { "en": "On play: put the top 3 cards of the graveyard on the bottom of the deck in a random order." },
+        "manaColors": ["blue", "purple"],
+        "level": 4,
+        "attack": 1800,
+        "types": [{ "en": "Fish" }]
+    },
+    {
+        "id": 66,
+        "name": { "en": "Robot Watercan" },
+        "effect": { "en": "Dies to YELLOW.\n\n+3K on attack." },
+        "manaColors": ["blue", "yellow"],
+        "level": 4,
+        "attack": 1800,
+        "types": [{ "en": "Robot" }]
+    },
+    {
+        "id": 67,
+        "name": { "en": "Mastermind" },
+        "effect": { "en": "On discard: starting with you, everyone draws to 5." },
+        "manaColors": ["purple", "yellow"],
+        "level": 2,
+        "attack": 500,
+        "types": [{ "en": "Robot" }]
+    },
+    {
+        "id": 68,
+        "name": { "en": "Butterflier" },
+        "effect": { "en": "x2 vs BLUE\n\nDies to PURPLE." },
+        "manaColors": ["green"],
+        "level": 3,
+        "attack": 1100,
+        "types": [{ "en": "Bug" }]
+    },
+    {
+        "id": 69,
+        "name": { "en": "Thunder Clown" },
+        "effect": { "en": "+2K on attack." },
+        "manaColors": ["yellow"],
+        "level": 3,
+        "attack": 1000,
+        "types": [{ "en": "Robot" }, { "en": "Fairy" }]
+    },
+    {
+        "id": 70,
+        "name": { "en": "Sunbreaker" },
+        "effect": { "en": "x2 on attack against any monster with an effect.\n\nDies to monsters with no effect." },
+        "manaColors": ["yellow"],
+        "level": 5,
+        "attack": 3000,
+        "types": [{ "en": "Robot" }]
+    }
+]
