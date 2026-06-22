@@ -1,3 +1,5 @@
+![A nice logo saying "Monster Pile" and telling you to have a nice day](https://raw.githubusercontent.com/brooks42/MonsterPile/refs/heads/main/logo.png)
+
 # MonsterPile
 Public repository for Monster Pile game assets, including card JSON files, TTS mod files, etc.
 
